@@ -1,0 +1,82 @@
+.aaa{
+     width:100%;
+    height:220px;
+ }
+.aaa img{
+    width:100%;
+    height:400px;
+    margin-top: -5px;
+}
+.aaa .jian{
+    width: 20px;
+    height: 1px;
+}
+.aaa .jian img{
+    width: 50px;
+    height: 46px;
+    margin-top: 20px;
+    background-size: cover;
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    float: left;
+}
+
+
+.bcd{
+    width:50px;
+    height:50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: right;
+}
+.bcd img{
+    width:150px;
+    height:150px;
+    border-radius: 10px;
+    position: relative;
+    top: -117px;
+    left: -216px;
+
+}
+.fname{
+    height: 100px;
+    margin-top: 64px;
+    margin-left: 100px;
+}
+.fname span{
+    font-family: 微软雅黑;
+    font-size: 30px;
+    margin-left:-60px;
+    text-align: center;
+    line-height: 30px;
+    color: blue;
+}
+.fword{
+    margin-left: 70px;
+    -webkit-line-clamp:5 ;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.fword span{
+    font-family: 微软雅黑;
+    font-size: 20px;
+    margin-left: 5px;
+    line-height: 30px;
+}
+.fpic{
+    margin-left: 70px;
+    font-size: 30px;
+
+}
+.fpic img{
+    width:150px;
+    height:150px;
+    float: left;
+}
+.kong{
+    border-bottom: gainsboro 1px solid;
+    margin-top: 5px;
+}

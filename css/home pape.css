@@ -1,0 +1,55 @@
+ul a{
+     color: black;
+ }
+ul a li{
+    height: 107px;
+    width: 90%;
+    margin: auto ;
+}
+ul a li .photo{
+     height: 45px;
+     width: 45px;
+     float: left;
+ }
+ul a li  .photo img{
+    height: 81px;
+    width: 85px;
+    margin-top: 14px;
+    border-radius: 10px;
+}
+ul a li .name .name1{
+    height: 20px ;
+    display: flex;
+    align-content: space-around;
+
+}
+ul a li .name .name1 .span{
+    font-family: 微软雅黑;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: -10px;
+
+}
+ul a li .name .name1 .name2{
+    font-family: 微软雅黑;
+    font-size: 80px;
+    margin-left: 28px;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+
+
+}
+
+ul a li .time .time2{
+    font-size: 26px;
+    opacity: 0.5;
+    margin-left: 174px;
+}
+
+
+
+
+
+
+
